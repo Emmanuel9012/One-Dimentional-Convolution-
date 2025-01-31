@@ -1,4 +1,4 @@
-# One-Dimentional-Convulution
+# One-Dimentional-Convolution 
 Explanation of 1D Convolution
 Convolution is a mathematical operation that combines two signals to produce a third signal. In 1D convolution, we take an input signal and an impulse response (or kernel) and slide (or convolve) the kernel over the input signal to produce an output signal.
 
